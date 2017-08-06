@@ -1,0 +1,16 @@
+{
+  "app.css": "static/css/app.b509d562.css",
+  "app.js": "static/js/app.85ac3270.js",
+  "polyfill.js": "static/js/polyfill.6490cfbf.js",
+  "static\\media\\add-min.svg": "static/media/add-min.25509472.svg",
+  "static\\media\\cart-min.svg": "static/media/cart-min.d09a3e4e.svg",
+  "static\\media\\close-min.svg": "static/media/close-min.6b5e2e06.svg",
+  "static\\media\\ellipsis-min.svg": "static/media/ellipsis-min.1e607ddb.svg",
+  "static\\media\\left-arrow.svg": "static/media/left-arrow.dfa1824d.svg",
+  "static\\media\\loading.gif": "static/media/loading.3c2ed543.gif",
+  "static\\media\\minus-min.svg": "static/media/minus-min.aa68ca27.svg",
+  "static\\media\\star-bg-min.svg": "static/media/star-bg-min.f49652a5.svg",
+  "static\\media\\star-min.svg": "static/media/star-min.6c88ffa5.svg",
+  "static\\media\\trash-min.svg": "static/media/trash-min.de9667aa.svg",
+  "vendor.js": "static/js/vendor.bundle.js"
+}
